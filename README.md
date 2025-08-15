@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh3cG5rdDNqdW9lanRhamY5ZjM2NG00ZWU5ZmR6dXdsa3prZmYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDen1HUlEWp6OKS15E/giphy.gif)
+
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning 
+. 
